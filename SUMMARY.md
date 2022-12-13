@@ -10,3 +10,4 @@
     * [Scalar types](learning/graphql/scalar-types.md)
 * [🗄 Articles](articles.md)
 * [🧑🎓 Study](study.md)
+* [Courses](courses.md)
