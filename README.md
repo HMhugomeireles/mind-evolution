@@ -1,1 +1,2 @@
-# mind-evolution
+# Applications
+
