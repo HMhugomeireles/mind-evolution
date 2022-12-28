@@ -2,6 +2,7 @@
 
 * [Applications](README.md)
   * [AppointBook](applications/appointbook.md)
+  * [Omnichannel training](applications/omnichannel-training.md)
 * [🎓 Learning](learning/README.md)
   * [Graphql](learning/graphql/README.md)
     * [Unions](learning/graphql/unions.md)
