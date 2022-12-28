@@ -9,6 +9,8 @@
     * [Fragments](learning/graphql/fragments.md)
     * [Directives](learning/graphql/directives.md)
     * [Scalar types](learning/graphql/scalar-types.md)
+  * [Typescript](learning/typescript/README.md)
+    * [Labeled Tuple Elements](learning/typescript/labeled-tuple-elements.md)
 * [🗄 Articles](articles.md)
 * [🧑🎓 Study](study.md)
 * [Courses](courses.md)
