@@ -9,6 +9,8 @@
     * [Fragments](learning/graphql/fragments.md)
     * [Directives](learning/graphql/directives.md)
     * [Scalar types](learning/graphql/scalar-types.md)
+    * [Root fields and resolvers](learning/graphql/root-fields-and-resolvers.md)
+    * [Scalar Coercion](learning/graphql/scalar-coercion.md)
   * [Typescript](learning/typescript/README.md)
     * [Labeled Tuple Elements](learning/typescript/labeled-tuple-elements.md)
 * [🗄 Articles](articles.md)
